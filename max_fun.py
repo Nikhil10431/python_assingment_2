@@ -1,4 +1,5 @@
-def max_fun(a, b):
-    return max(a, b)
+def max_fun(num):
+    return max(num)
 
-print(max_fun(5, 10))
+num=[10,60,50,23,40]
+print(max_fun(num))
